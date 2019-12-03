@@ -1,6 +1,0 @@
-C:\Proj\play\NfcReader\Reading\bin\Debug\Reading.exe.config
-C:\Proj\play\NfcReader\Reading\bin\Debug\Reading.exe
-C:\Proj\play\NfcReader\Reading\bin\Debug\Reading.pdb
-C:\Proj\play\NfcReader\Reading\obj\Debug\Reading.csprojAssemblyReference.cache
-C:\Proj\play\NfcReader\Reading\obj\Debug\Reading.exe
-C:\Proj\play\NfcReader\Reading\obj\Debug\Reading.pdb
